@@ -1,0 +1,84 @@
+
+
+<resources>
+    <string name="app_name">Egypt Guide</string>
+
+    <string name="category_cafes">Coffi</string>
+    <string name="category_hotels">Hotels</string>
+    <string name="category_restaurant">restaurant</string>
+    <string name="category_mall">malls</string>
+
+    <!--hotels-->
+    <string name="one_hotel_name">InterContinental Cairo Citystars</string>
+    <string name="one_hotel_desc">InterContinental Cairo Citystars offers luxury amid lush gardens in the buzzing hub of Citystars Heliopolis, next to Stars Centre Mall. </string>
+    <string name="one_hotel_addr">HOmar Ibn El Khattab Street , P.O. Box 1026 , Heliopolis Bahary : Cairo ,11737, Egypt</string>
+    <string name="one_hotel_work"> 24 / 7 </string>
+    <string name="one_hotel_tel">+20-2-24800100</string>
+
+    <string name="two_hotel_name">Cairo Marriott Hotel</string>
+    <string name="two_hotel_desc">Cairo Marriott Hotel and Omar Khayyam Casino </string>
+    <string name="two_hotel_addr"> 16 Saray El Gezira Street, Zamalek, Cairo  11211 Egypt </string>
+    <string name="two_hotel_work"> 24 / 7 </string>
+    <string name="two_hotel_tel">+20 2 27283000</string>
+
+    <string name="three_hotel_name">Holiday Inn Cairo - Citystars</string>
+    <string name="three_hotel_desc">A modern, family-friendly hotel in Cairo dynamic Citystars Heliopolis.</string>
+    <string name="three_hotel_addr">Ali Rashed Street Heliopolis Po Box 381 Cairo 11757 Egypt </string>
+    <string name="three_hotel_work">Check In: 3PM, Check Out: 12PM </string>
+    <string name="three_hotel_tel">20 2 24803000 </string>
+
+    <!--coffee-->
+    <string name="one_cafe_name">Starbucks Coffee</string>
+    <string name="one_cafe_desc">Coffeeshops , Work Or Study.</string>
+    <string name="one_cafe_addr"> Inside City Center, 3 Makram Ebaid St.</string>
+    <string name="one_cafe_tel"> 0222876057, 01220800332</string>
+
+    <string name="two_cafe_name">Smoothie Fruit</string>
+    <string name="two_cafe_desc"> Coffee and Drinks. </string>
+    <string name="two_cafe_addr">86 Wadi El Nil Street</string>
+    <string name="two_cafe_tel"> 01100510024</string>
+
+    <string name="three_cafe_name">Costa Coffee</string>
+    <string name="three_cafe_desc"> Coffeeshops , Work Or Study , Roof tops. </string>
+    <string name="three_cafe_addr">125 Hassan El-Maamoun st. In front of Ahly, 6th Zone.</string>
+    <string name="three_cafe_tel"> 16460, 16460</string>
+
+    <!--rest-->
+    <string name="one_rest_name">La Casetta</string>
+    <string name="one_rest_desc">Artisanal Pizza. </string>
+    <string name="one_rest_addr"> 32 Abdel Aziz Fahmy St </string>
+    <string name="one_rest_work">Open From 1:00PM to 1:00AM </string>
+    <string name="one_rest_tel"> 0222401555</string>
+
+    <string name="two_rest_name">z-restaurant</string>
+    <string name="two_rest_desc">Sandwiches, International, Fast Food. </string>
+    <string name="two_rest_addr"> 3 Tahrir Square</string>
+    <string name="two_rest_work">Open From 8:30AM to 12:00AM</string>
+    <string name="two_rest_tel"> 0227941073</string>
+
+    <string name="three_rest_name">Gad Restaurant</string>
+    <string name="three_rest_desc">Foul , El Feteer. </string>
+    <string name="three_rest_addr"> 97 Tahrir Street</string>
+    <string name="three_rest_work">Open From 6:00AM to 2:00AMz</string>
+    <string name="three_rest_tel">-</string>
+
+    <!--market-->
+    <string name="one_mall_name">Mall of Egypt</string>
+    <string name="one_mall_desc">The all-new glistening Mall of Egypt features Egypt’s first (and so far only) indoor snow park. You’ll also find a clean and well-maintained cinema complex featuring 21 screens. </string>
+    <string name="one_mall_addr"> Al Wahat Road, 6th of October City </string>
+    <string name="one_mall_work"> 24 / 7 </string>
+    <string name="one_mall_tel"> +201024444482 </string>
+
+    <string name="two_mall_name"> Dandy Mega Mall </string>
+    <string name="two_mall_desc">  Dandy Mall was the go-to destination for shopping along with Citystars. </string>
+    <string name="two_mall_addr"> Cairo-Alex Desert Road </string>
+    <string name="two_mall_work"> 24 / 7 </string>
+    <string name="two_mall_tel">-  </string>
+
+    <string name="three_mall_name">Arkan Plaza </string>
+    <string name="three_mall_desc">Arkan is not really a shopper’s paradise. And technically speaking, it’s more of a mixed-use development rather than a mall. But let’s not get nit-picky. Us Egyptians categorize Arkan as a mall. </string>
+    <string name="three_mall_addr">Sheikh Zayed City </string>
+    <string name="three_mall_work">  24 / 7 </string>
+    <string name="three_mall_tel"> - </string>
+
+</resources>
